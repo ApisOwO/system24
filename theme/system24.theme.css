@@ -54,7 +54,7 @@ body {
 
     /* background image options */
     --background-image: off; /* off: no background image, on: enable background image (must set url variable below) */
-    --background-image-url: url(''); /* url of the background image */
+    --background-image-url: url('https://cdn.discordapp.com/attachments/1399068827815252118/1553889541406986410/Untitled7_20260928010056.png?ex=6abae3e8&is=6ab99268&hm=d208284e61737e721a1a39f9529192f19043e996f7b597c809b88b1cfddab884&'); /* url of the background image */
 
     /* transparency/blur options */
     /* NOTE: TO USE TRANSPARENCY/BLUR, YOU MUST HAVE TRANSPARENT BG COLORS. FOR EXAMPLE: --bg-4: hsla(220, 15%, 10%, 0.7); */
